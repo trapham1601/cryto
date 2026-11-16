@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257673912945",
+    "project_id": "appcryto-4f00e",
+    "storage_bucket": "appcryto-4f00e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257673912945:android:066131e1b252838aa3f1d0",
+        "android_client_info": {
+          "package_name": "com.example.crytoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdYeJsLcgbaba01ZWRznNdaYeG8YTEjEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
